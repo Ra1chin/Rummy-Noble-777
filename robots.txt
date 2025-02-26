@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://rummy-noble-777.vercel.app//sitemap.xml
